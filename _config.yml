@@ -23,7 +23,7 @@ description:      'Digital Collection'
 url:              'https://trustyfridges.github.io'
 baseurl:          '/seneca-combs-project'
 copyright:        'Copyright 2022'
-logo:             '/img/logo.png'
+logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -105,7 +105,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'The Project'
+      - label: 'Wax'
         link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
@@ -113,14 +113,16 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Exhibit A'
+      - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
-      - label: 'Exhibit B'
+      - label: 'Inline Image References'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
+  - label: 'Reuse'
+    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
