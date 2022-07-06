@@ -2,9 +2,7 @@
 layout: page
 show_title: false
 banner:
-  <a href="{{ '/img/background.png' | absolute_url }}">
-  <img src="{{ '/img/background.png' | absolute_url }}"/>
-  </a>
+  include parallax_image.html "https://trustyfridges.github.io/seneca-combs-project/img/background.png"
   y: 25%
   height: '500px'
 ---
