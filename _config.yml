@@ -105,7 +105,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'The Project'
         link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
@@ -117,12 +117,12 @@ menu:
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
+      - label: 'Map'
+        link: '/exhibits/map/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

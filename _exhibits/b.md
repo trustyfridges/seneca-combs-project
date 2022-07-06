@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
+author: Example
 publish_date: 2018-11-15
 permalink: /exhibits/b/
 ---
