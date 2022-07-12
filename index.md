@@ -2,7 +2,10 @@
 layout: page
 show_title: false
 banner:
-  background-image: url({{'/img/background.png' | absolute_url }}')
+  collection: combs
+  pid: 1
+  y: 50%
+  height: 300px
 ---
 
 __The Seneca Combs Project Construction Site__
