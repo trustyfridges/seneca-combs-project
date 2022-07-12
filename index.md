@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: combs
-  pid: 1
+  pid: '1'
   y: 50%
   height: 300px
 ---
