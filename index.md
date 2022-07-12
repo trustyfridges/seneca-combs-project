@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  ![Research]('/img/background.png')
+  url: 'https://trustyfridges.github.io/seneca-combs-project/img/background.png'
   y: 25%
   height: '500px'
 ---
