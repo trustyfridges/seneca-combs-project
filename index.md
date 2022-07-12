@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  ![Research](/img/background.png)
+  ![Research]('/img/background.png' | absolute_url)
   y: 25%
   height: '500px'
 ---
