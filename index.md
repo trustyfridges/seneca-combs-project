@@ -2,10 +2,7 @@
 layout: page
 show_title: false
 banner:
-  <a href=">
-  <a href="{{ '/img/background.png' | absolute_url }}">
-    <img src="{{ '/img/background.png' | absolute_url }}"/>
-  </a> 
+  ![Research](/img/background.png)
   y: 25%
   height: '500px'
 ---
