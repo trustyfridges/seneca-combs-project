@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Seneca Combs Project'
-description:      'Digital Collection'
+description:      'Digital Collection test'
 url:              'https://trustyfridges.github.io'
 baseurl:          '/seneca-combs-project'
 copyright:        'Copyright 2022'
